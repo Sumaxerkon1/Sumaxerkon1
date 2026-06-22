@@ -10,4 +10,4 @@ Junior Software Developer based in Greece, building everything from frontend int
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Databases](https://img.shields.io/badge/databases-%234479A1.svg?style=for-the-badge&logo=data-g堅&logoColor=white)
+![Databases](https://img.shields.io/badge/databases-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
